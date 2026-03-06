@@ -1,5 +1,12 @@
 # Subarachnoid haemorrhage segmentation from non-contrast head ct images
 
+---
+> **📌 SAHVAI Lab Integration Notice**  
+> This repository has been forked by the [SAHVAI Lab at Mayo Clinic](https://sahvai-lab.github.io) to preserve and share this excellent SAH segmentation tool with the research community.  
+> **[Read more about this integration →](SAHVAI-README.md)**  
+> **Original Repository:** [athanell/segment-ncct-sah](https://github.com/athanell/segment-ncct-sah)
+---
+
 <img src="/instructions/media/Demo.png" width="591px" height='591' />
 
 ## Description 
